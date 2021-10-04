@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on: <a herf="https://github.com/CYBORG-NIT-ROURKELA/customer-segmentation.git">customer-segmentation</a>
-🌱 I’m currently learning: TensorFlow
-🤔 I’m looking for help with: CNN
-💬 Ask me about: Python, Pytorch
+🔭 I’m currently working on: <a herf="https://github.com/CYBORG-NIT-ROURKELA/customer-segmentation.git">customer-segmentation</a><\n>
+🌱 I’m currently learning: TensorFlow<\n>
+🤔 I’m looking for help with: CNN <\n>
+💬 Ask me about: Python, Pytorch <\n>
 📫 How to reach me: 
