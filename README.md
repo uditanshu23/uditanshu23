@@ -35,11 +35,8 @@ Here are some ideas to get you started:
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://twitter.com/UditanshuS23" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="UditanshuS23" height="15" width="20" /></a>
-
 <a href="https://www.linkedin.com/in/uditanshu-satpathy-90a10917b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uditanshu-satpathy-90a10917b" height="15" width="20" /></a>
-
 <a href="https://www.facebook.com/uditanshu.satpathy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uditanshu.satpathy" height="15" width="20" /></a>
-
 <a href="https://www.instagram.com/_udit.sat_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_udit.sat_" height="15" width="20" /></a>
 
 </p>
