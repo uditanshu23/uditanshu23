@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 </p>
 
-## My Stats
+<h2 align="center">Quick Stats:</h2>
 
 ![Uditanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=uditanshu23&show_icons=true&theme=react)
 
