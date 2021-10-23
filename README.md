@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Uditanshu</h1>
 <h3 align="center"> A Machine Learning and Deep Learning Enthusiast and Part Time Web developer</h3>
 
-- 🔭 I’m currently working on [Customer Segmentation Model](https://github.com/CYBORG-NIT-ROURKELA/customer-segmentation.git)
+<!-- - 🔭 I’m currently working on [Customer Segmentation Model](https://github.com/CYBORG-NIT-ROURKELA/customer-segmentation.git) -->
 
 - 🌱 I’m currently learning **TensorFlow, OpenCV**
 
