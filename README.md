@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 
 <h2 align="center">Quick Stats:</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uditanshu23)](https://github.com/uditanshu23/github-readme-stats)
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=uditanshu23&count_private=true)
+[![Uditanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=uditanshu23)](https://github.com/uditanshu23/github-readme-stats)
+![ GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=uditanshu23&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=uditanshu23&theme=react)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uditanshu23&layout=compact&theme=react&langs_count=6)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=uditanshu23&layout=compact&theme=react&langs_count=6)
