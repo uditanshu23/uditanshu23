@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">Quick Stats:</h2>
 
-[![Uditanshu's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=uditanshu23&&theme=radical)](https://github.com/uditanshu23/github-readme-stats)
+
 ![ GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=uditanshu23&&theme=radical&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=uditanshu23&theme=react)
