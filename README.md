@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on [Customer Segmentation Model](https://github.com/CYBORG-NIT-ROURKELA/customer-segmentation.git) -->
 
-- 🌱 I’m currently learning **TensorFlow, OpenCV**
+- 🌱 I’m currently focusing on learnimg **Integration of IoT based tech with speech based AI models**
 
-- 🤝 I’m looking for help with **CNN**
+- 🤝 I’m looking for help with **NLP**
 
-- 👨‍💻 All of my projects are available at [https://github.com/uditanshu23](https://github.com/uditanshu23)
+- 👨‍💻 All of my projects are available at [UditSat/GitHub](https://github.com/uditanshu23)
 
-- 💬 Ask me about **Python, PyTorch**
+- 💬 Ask me about **Computer Vision, CNN, etc.**
 
 - 📫 How to reach me **uditanshusatpathy23@gmail.com**
 
